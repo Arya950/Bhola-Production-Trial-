@@ -227,6 +227,9 @@
     transition-duration: 0.8s;
     border-radius: 12px;
   }
+  footer a{
+    text-decoration: none;
+  }
   footer {
     margin: 0px;
     padding: 100px;
