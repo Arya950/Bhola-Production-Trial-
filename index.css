@@ -236,8 +236,10 @@
     /* background-image: linear-gradient(darkblue , black ,darkblue  , black  ); */
     align-items: center;
     background-image: radial-gradient( black,blanchedalmond );
-    color:BLACK ;
+    color:#ccc;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size:  larger;
+    text-decoration: none;
   }
   
   .footer1 {
